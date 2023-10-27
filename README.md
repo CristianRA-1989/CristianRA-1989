@@ -7,8 +7,9 @@ El silencio|La negatividad
 Cine|La falta de compromiso
 
 ##   Cosas que estoy aprendiendo
+
 - El uso de GitHub
-- lenguaje Markdown
+- Lenguaje Markdown
 
 
 
