@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola! Soy cristian,estudiante de la ULL👋
+Naci en Tenerife Y estudie ingenieria de Máquinas Navales  en la Universidad de la Laguna. Actualmente me encuentro estudiando el Master de profesorado en la ULL.
+
 
 <!--
 **CristianRA-1989/CristianRA-1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
