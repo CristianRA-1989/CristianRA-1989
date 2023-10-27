@@ -1,5 +1,5 @@
 ### Hola! Soy cristian,estudiante de la ULL👋
-Naci en Tenerife Y estudie ingenieria de Máquinas Navales  en la Universidad de la Laguna. Actualmente me encuentro estudiando el Master de profesorado en la ULL.
+Soy de Tenerife y estudie Ingenieria de Máquinas Navales  en la Universidad de La Laguna. Actualmente me encuentro estudiando el Máster de profesorado en la ULL.
 
 
 <!--
