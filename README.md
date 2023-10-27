@@ -1,6 +1,14 @@
 ### Hola! Soy cristian,estudiante de la ULL👋
 Soy de Tenerife y estudie Ingenieria de Máquinas Navales  en la Universidad de La Laguna. Actualmente me encuentro estudiando el Máster de profesorado en la ULL.
 
+##   Cosas que estoy aprendiendo
+-El uso de GitHub
+- lenguaje Markdown
+
+ Me gusta     |    No me gusta
+------------ | -------------
+El silencio| La negatividad
+ Cine| La falta de compromiso
 
 <!--
 **CristianRA-1989/CristianRA-1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-fgd
+
