@@ -5,8 +5,8 @@ Soy de Tenerife y estudie Ingenieria de Máquinas Navales  en la Universidad de 
 - El uso de GitHub
 - lenguaje Markdown
 
-Me gusta     |No me gusta
------------- | -------------
+Me gusta   |No me gusta
+---------- | -------------
 El silencio|La negatividad
 Cine|La falta de compromiso
 
