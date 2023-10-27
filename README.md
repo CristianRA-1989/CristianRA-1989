@@ -2,13 +2,13 @@
 Soy de Tenerife y estudie Ingenieria de Máquinas Navales  en la Universidad de La Laguna. Actualmente me encuentro estudiando el Máster de profesorado en la ULL.
 
 ##   Cosas que estoy aprendiendo
--El uso de GitHub
+- El uso de GitHub
 - lenguaje Markdown
 
- Me gusta     |    No me gusta
+Me gusta     | No me gusta
 ------------ | -------------
-El silencio| La negatividad
- Cine| La falta de compromiso
+El silencio|La negatividad
+Cine|La falta de compromiso
 
 <!--
 **CristianRA-1989/CristianRA-1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
