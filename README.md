@@ -2,7 +2,7 @@
 Soy de Tenerife y estudie Ingenieria de Máquinas Navales  en la Universidad de La Laguna. Actualmente me encuentro estudiando el Máster de profesorado en la ULL.
 
 Me gusta   |No me gusta
----------- |-----------
+----------|-----------
 El silencio|La negatividad
 Cine|La falta de compromiso
 
